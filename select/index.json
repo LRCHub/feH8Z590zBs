@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "プライド革命",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2025-12-28T12:00:17.259589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_プライド革命_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プライド革命 (自尊心革命)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_プライド革命_(自尊心革命)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プライド革命 feat.未来",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/03_プライド革命_feat.未来_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プライド革命 feat.未来",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/04_プライド革命_feat.未来_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プライド革命",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/05_プライド革命_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プライド革命 - Pride Kakumei",
+      "artist": "HoneyWorks • Chico",
+      "has_synced": true,
+      "path": "select/06_プライド革命_-_Pride_Kakumei_HoneyWorks_•_Chico.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プライド革命 - Pride Kakumei",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_プライド革命_-_Pride_Kakumei_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プライド革命 - Pride Kakumei",
+      "artist": "HoneyWorks,Chico",
+      "has_synced": true,
+      "path": "select/08_プライド革命_-_Pride_Kakumei_HoneyWorks,Chico.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プライド革命／CHiCO with HoneyWorks",
+      "artist": "Sony Music (Japan)",
+      "has_synced": false,
+      "path": "select/09_プライド革命_CHiCO_with_HoneyWorks_Sony_Music_(Japan).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プライド革命",
+      "artist": "コバソロ feat. 未来",
+      "has_synced": true,
+      "path": "select/10_プライド革命_コバソロ_feat._未来.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pride Kakumei (プライド革命)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_Pride_Kakumei_(プライド革命)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プライド革命",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_プライド革命_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
